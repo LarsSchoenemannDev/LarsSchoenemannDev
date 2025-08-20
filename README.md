@@ -1,15 +1,52 @@
-Hey 👋<br><br>Ich bin Lars jemand, der gern Dinge baut, kaputtmacht und wieder besser zusammensetzt.<br><br>🌱 Aktuell lerne ich: JavaScript<br>🚀 Projekte: meistens kleine Experimente, manchmal größere Ideen<br>☕ Energiequelle: Kaffee + gute Musik<br><br>Fun Fact: Mein Code läuft selten beim ersten Versuch – aber dafür meistens irgendwann. 😅
+<h1>Hey ✌️</h1>
 
+<p>
+  Ich bin Lars 👋 jemand, der gern Dinge baut, kaputtmacht und wieder besser zusammensetzt.
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LarsSchoenemann&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LarsSchoenemann&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LarsSchoenemann&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  🌱 <strong>Aktuell lerne ich:</strong> JavaScript <br>
+  🚀 <strong>Projekte:</strong> meistens kleine Experimente, manchmal größere Ideen <br>
+  ☕ <strong>Energiequelle:</strong> Kaffee + gute Musik
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p>
+  <em>Fun Fact:</em> Mein Code läuft selten beim ersten Versuch – aber dafür meistens irgendwann. 😅
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=LarsSchoenemann&icon=3&color=1)](https://visitcount.itsvg.in)
+<hr>
+
+<h2>💻 Tech Stack:</h2>
+<p>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white" alt="Wireguard" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Home Assistant" />
+</p>
+
+<hr>
+
+<h2>📊 GitHub Stats:</h2>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=LarsSchoenemann&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=LarsSchoenemann&theme=dark&hide_border=true" alt="Streak Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarsSchoenemann&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+<hr>
+
+<h3>✍️ Random Dev Quote</h3>
+<p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
+
+<hr>
+
+<p>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=LarsSchoenemann&icon=3&color=1" alt="Profile Visits" />
+  </a>
+</p>
