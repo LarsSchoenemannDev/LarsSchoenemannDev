@@ -41,8 +41,4 @@
 
 <hr>
 
-<p>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=LarsSchoenemann&icon=3&color=1" alt="Profile Visits" />
-  </a>
-</p>
+
