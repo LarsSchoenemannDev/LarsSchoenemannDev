@@ -2,8 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Lars%20Schönemann&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20in%20Training&descAlignY=60&descSize=20&descColor=58a6ff)
 
-[![GitHub](https://img.shields.io/badge/GitHub-LarsSchoenemannDev-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LarsSchoenemannDev)
-&nbsp;
+[GitHub](https://img.shields.io/badge/GitHub-LarsSchoenemannDev-0d1117?style=for-the-badge&logo=github&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/lars-sch%C3%B6nemann-7626a9374/)
+<br>
+<br>
 [![Location](https://img.shields.io/badge/Rinteln-Germany-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/LarsSchoenemannDev)
 
 </div>
@@ -20,9 +22,9 @@ Feel free to check out my projects below or reach out if you want to talk about 
 
 ## Current Stack
 
-<table width="100%">
+<table align="center">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
 
 **Markup & Styling**
 
@@ -30,7 +32,7 @@ Feel free to check out my projects below or reach out if you want to talk about 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
 
 **Programming Lang**
 
@@ -76,28 +78,11 @@ Feel free to check out my projects below or reach out if you want to talk about 
 
 ## Featured Projects
 
-<table width="100%">
-<tr>
-  <th align="left">Project</th>
-  <th align="left">Description</th>
-  <th align="left">Tech</th>
-</tr>
-<tr>
-  <td><a href="https://github.com/LarsSchoenemannDev/El-Pollo-Loco">El Pollo Loco</a></td>
-  <td>Jump &amp; Run Game</td>
-  <td><img src="https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" /></td>
-</tr>
-<tr>
-  <td><a href="https://github.com/LarsSchoenemannDev/Join">Join</a></td>
-  <td>Kanban Task Manager</td>
-  <td><img src="https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" /></td>
-</tr>
-<tr>
-  <td><a href="https://github.com/LarsSchoenemannDev/Taxometer">Taxometer</a></td>
-  <td>Tax Calculator App</td>
-  <td><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></td>
-</tr>
-</table>
+| Project | Description | Tech |
+|---|---|---|
+| [El Pollo Loco](https://github.com/LarsSchoenemannDev/El-Pollo-Loco) | Jump & Run Game | ![JS](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) |
+| [Join](https://github.com/LarsSchoenemannDev/Join) | Kanban Task Manager | ![JS](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) |
+| [Taxometer](https://github.com/LarsSchoenemannDev/Taxometer) | Tax Calculator App | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
 
 ---
 
