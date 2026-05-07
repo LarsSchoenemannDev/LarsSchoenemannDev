@@ -5,6 +5,7 @@
 [GitHub](https://img.shields.io/badge/GitHub-LarsSchoenemannDev-0d1117?style=for-the-badge&logo=github&logoColor=white)
 [LinkedIn](https://www.linkedin.com/in/lars-sch%C3%B6nemann-7626a9374/)
 <br>
+<br>
 [![Location](https://img.shields.io/badge/Rinteln-Germany-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/LarsSchoenemannDev)
 
 </div>
@@ -23,7 +24,7 @@ Feel free to check out my projects below or reach out if you want to talk about 
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
 
 **Markup & Styling**
 
@@ -31,7 +32,7 @@ Feel free to check out my projects below or reach out if you want to talk about 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="100%">
 
 **Programming Lang**
 
