@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Lars%20Schönemann&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20in%20Training&descAlignY=60&descSize=20&descColor=58a6ff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Lars%20Schönemann&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Junior%20Front%20End%20Developer&descAlignY=60&descSize=20&descColor=58a6ff)
 
 [GitHub](https://img.shields.io/badge/GitHub-LarsSchoenemannDev-0d1117?style=for-the-badge&logo=github&logoColor=white)
 [LinkedIn](https://www.linkedin.com/in/lars-sch%C3%B6nemann-7626a9374/)
