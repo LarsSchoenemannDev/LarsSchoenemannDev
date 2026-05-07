@@ -10,9 +10,11 @@
 
 </div>
 
+
+
 ---
 
-Hi there,
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5495E1&width=435&lines=Hi+there%2C+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
 I'm Lars, a Web Developer in training based in **Rinteln, Germany**. Currently enrolled at **Developer Akademie**, where I'm learning to build things, break them, and put them back together better. My passion is crafting clean, functional web experiences — one pull request at a time.
 
@@ -22,45 +24,9 @@ Feel free to check out my projects below or reach out if you want to talk about 
 
 ## Current Stack
 
-<table align="center">
-  <tr>
-    <td valign="top" width="100%">
-
-**Markup & Styling**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</td>
-    <td valign="top" width="100%">
-
-**Programming Lang**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-</td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</td>
-    <td valign="top" width="50%">
-
-**Currently Learning**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-</td>
-  </tr>
-</table>
-
----
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,typescript,angular,nodejs,git,github,vscode,figma" />
+</div>
 
 
 <div align="center">
