@@ -22,7 +22,7 @@ Feel free to check out my projects below or reach out if you want to talk about 
 
 ## Current Stack
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="100%">
 
