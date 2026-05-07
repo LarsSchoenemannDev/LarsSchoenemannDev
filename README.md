@@ -62,19 +62,6 @@ Feel free to check out my projects below or reach out if you want to talk about 
 
 ---
 
-## Current Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LarsSchoenemannDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/LarsSchoenemannDev)
-
-[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=LarsSchoenemannDev&theme=dark&hide_border=true)](https://github.com/LarsSchoenemannDev)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LarsSchoenemannDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/LarsSchoenemannDev)
-
-</div>
-
----
 
 ## Featured Projects
 
