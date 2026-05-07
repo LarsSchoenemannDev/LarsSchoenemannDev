@@ -1,44 +1,91 @@
-<h1>Hey ✌️</h1>
+<div align="center">
 
-<p>
-  Ich bin Lars 👋 jemand, der gern Dinge baut, kaputtmacht und wieder besser zusammensetzt.
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Lars%20Schönemann&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20in%20Training&descAlignY=60&descSize=20&descColor=58a6ff)
 
-<p>
-  🌱 <strong>Aktuell lerne ich:</strong> JavaScript <br>
-  🚀 <strong>Projekte:</strong> meistens kleine Experimente, manchmal größere Ideen <br>
-  ☕ <strong>Energiequelle:</strong> Kaffee + gute Musik
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-LarsSchoenemannDev-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LarsSchoenemannDev)
+&nbsp;
+[![Location](https://img.shields.io/badge/Rinteln-Germany-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/LarsSchoenemannDev)
 
-<p>
-  <em>Fun Fact:</em> Mein Code läuft selten beim ersten Versuch – aber dafür meistens irgendwann. 😅
-</p>
+</div>
 
-<hr>
+---
 
-<h2>💻 Tech Stack:</h2>
-<p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-</p>
+Hi there,
 
-<hr>
+I'm Lars, a Web Developer in training based in **Rinteln, Germany**. Currently enrolled at **Developer Akademie**, where I'm learning to build things, break them, and put them back together better. My passion is crafting clean, functional web experiences — one pull request at a time.
 
-<h2>📊 GitHub Stats:</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LarsSchoenemann&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=LarsSchoenemann&theme=dark&hide_border=true" alt="Streak Stats" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarsSchoenemann&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+Feel free to check out my projects below or reach out if you want to talk about web development.
 
-<hr>
+---
 
-<h3>✍️ Random Dev Quote</h3>
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
+## Current Stack
 
-<hr>
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
+**Markup & Styling**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</td>
+    <td valign="top" width="50%">
+
+**Programming Lang**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+</td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</td>
+    <td valign="top" width="50%">
+
+**Currently Learning**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+</td>
+  </tr>
+</table>
+
+---
+
+## Current Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LarsSchoenemannDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/LarsSchoenemannDev)
+
+[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=LarsSchoenemannDev&theme=dark&hide_border=true)](https://github.com/LarsSchoenemannDev)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LarsSchoenemannDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/LarsSchoenemannDev)
+
+</div>
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [El Pollo Loco](https://github.com/LarsSchoenemannDev/El-Pollo-Loco) | Jump & Run Game | ![JS](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) |
+| [Join](https://github.com/LarsSchoenemannDev/Join) | Kanban Task Manager | ![JS](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) |
+| [Taxometer](https://github.com/LarsSchoenemannDev/Taxometer) | Tax Calculator App | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer)
+
+</div>
