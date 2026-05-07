@@ -4,6 +4,7 @@
 
 [GitHub](https://img.shields.io/badge/GitHub-LarsSchoenemannDev-0d1117?style=for-the-badge&logo=github&logoColor=white)
 [LinkedIn](https://www.linkedin.com/in/lars-sch%C3%B6nemann-7626a9374/)
+<br>
 [![Location](https://img.shields.io/badge/Rinteln-Germany-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/LarsSchoenemannDev)
 
 </div>
