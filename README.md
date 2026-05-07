@@ -63,16 +63,6 @@ Feel free to check out my projects below or reach out if you want to talk about 
 ---
 
 
-## Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [El Pollo Loco](https://github.com/LarsSchoenemannDev/El-Pollo-Loco) | Jump & Run Game | ![JS](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) |
-| [Join](https://github.com/LarsSchoenemannDev/Join) | Kanban Task Manager | ![JS](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) |
-| [Taxometer](https://github.com/LarsSchoenemannDev/Taxometer) | Tax Calculator App | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
-
----
-
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer)
