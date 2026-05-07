@@ -2,8 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Lars%20Schönemann&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20in%20Training&descAlignY=60&descSize=20&descColor=58a6ff)
 
-[![GitHub](https://img.shields.io/badge/GitHub-LarsSchoenemannDev-0d1117?style=for-the-badge&logo=github&logoColor=white)]
-&nbsp;
+[GitHub](https://img.shields.io/badge/GitHub-LarsSchoenemannDev-0d1117?style=for-the-badge&logo=github&logoColor=white)
 [![Location](https://img.shields.io/badge/Rinteln-Germany-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/LarsSchoenemannDev)
 
 </div>
