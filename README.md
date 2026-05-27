@@ -25,7 +25,7 @@ Feel free to check out my projects below or reach out if you want to talk about 
 ## Current Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,typescript,angular,nodejs,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,git,github,vscode,figma" />
 </div>
 
 
