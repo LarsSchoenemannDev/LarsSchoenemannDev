@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient%&text=Lars%20Sch%C3%B6nemann&animation=fadeIn&fontSize=70&rotate=-2/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient%&text=Lars%20Sch%C3%B6nemann&animation=fadeIn&fontSize=70&rotate=-2>
 </div>
 
 [GitHub](https://img.shields.io/badge/GitHub-LarsSchoenemannDev-0d1117?style=for-the-badge&logo=github&logoColor=white)
