@@ -1,8 +1,6 @@
 <div align="center">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient%&text=Lars%20Sch%C3%B6nemann&animation=fadeIn&fontSize=70&rotate=-2>
-</div>
+![header](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient%&text=Lars%20Sch%C3%B6nemann&animation=fadeIn&fontSize=70&rotate=-2)
 
 [GitHub](https://img.shields.io/badge/GitHub-LarsSchoenemannDev-0d1117?style=for-the-badge&logo=github&logoColor=white)
 [LinkedIn](https://www.linkedin.com/in/lars-sch%C3%B6nemann-7626a9374/)
