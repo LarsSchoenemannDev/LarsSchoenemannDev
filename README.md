@@ -31,6 +31,6 @@ Feel free to check out my projects below or reach out if you want to talk about 
 
 <div align="center">
 
-![footer]([https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=✌️&section=footer&fontColor=ffff&fontAlign=79&animation=fadeIn&fontAlignY=83&rotate=0&stroke=ffff))
+![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=End%20of%20the%20page,%20start%20of%20a%20great%20connection.&section=footer&fontColor=ffff&fontAlign=58&animation=fadeIn&fontAlignY=80&rotate=0&stroke=ffff&fontSize=34)
 
 </div>
